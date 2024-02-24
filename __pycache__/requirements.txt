@@ -8,3 +8,4 @@ protobuf==4.25.3
 requests==2.31.0
 scikit_learn==1.4.0
 python-dotenv==1.0.1
+gunicorn==21.2.0
