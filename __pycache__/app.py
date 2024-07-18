@@ -70,7 +70,7 @@ API_KEY = os.getenv('API_KEY')
 GEO_API_KEY = os.getenv('GEO_API_KEY')
 
 
-API_KEY = "AIzaSyB2UNj81tQ79Pypkoi7OUhBJG_fFSnBr6A"
+API_KEY = "AIzaSyDP3jZ1Rh-cyYhWLltp9Xo5leJXGPbCDZE"
 geo_api_key="AIzaSyDHbXCWlajy5RXKgB9rvULtI6Kqy2CVJfE"
 
 genai.configure(api_key = API_KEY)
